@@ -7,5 +7,6 @@ public class Colaborador {
     }
     public void segundocambio(){
         System.out.println("segundo cambio");
+        //cambio #2 multilenguaje
     }
 }
